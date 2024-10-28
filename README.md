@@ -33,9 +33,8 @@
 ### 4. 소개 및 시연 영상
 멀티 클라우드 환경에서 하이퍼레저 패브릭 기반 허가형 블록체인 네트워크를 구축하고 관리하는 시스템입니다. 퍼블릭 클라우드의 벤더 종속성을 해소하고, 데이터 무결성 및 보안을 강화하기 위해 멀티 클라우드 환경을 활용합니다. 사용자는 블록체인 네트워크의 각 구성 요소를 클라우드 플랫폼에 분산 배치하고, 스마트 컨트랙트를 관리하며, 블록체인 네트워크 상태를 실시간으로 모니터링할 수 있습니다.
 
-[![시연영상](http://img.youtube.com/vi/92RB4OlCWfA&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=21&t=2s/0.jpg)]([https://www.youtube.com/watch?v=zh_gQ_lmLqE](https://www.youtube.com/watch?v=92RB4OlCWfA&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=21&t=2s))    
-
-
+<link>
+<[https://cse.pusan.ac.kr/cse/index..do](https://www.youtube.com/watch?v=92RB4OlCWfA&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=21&t=2s)>
 ### 5. 팀 소개
 |이름|역할|
 |------|---|
